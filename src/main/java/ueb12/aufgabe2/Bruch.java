@@ -1,5 +1,6 @@
 package ueb12.aufgabe2;
 
+//Das hier ist ein Test zu m löschen
 public class Bruch {
 	
     private int zaehler;
