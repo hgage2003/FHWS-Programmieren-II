@@ -1,0 +1,3 @@
+Hallo Welt
+Klausurvorbereitung für Programmieren II
+In der Programmiersprache Java

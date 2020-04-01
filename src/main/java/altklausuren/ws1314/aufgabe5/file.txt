@@ -1,0 +1,6 @@
+ja
+yes
+nein
+no
+bitte
+please 
